@@ -1,3 +1,4 @@
+gg.setVisible(false)
 function START()
 menu = gg.multiChoice({
 '💿『LAMP BUG ON』',
